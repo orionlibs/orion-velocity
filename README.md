@@ -1,2 +1,2 @@
-# project-name
-A description
+Orion Velocity
+Java wrapper of Apache Velocity
